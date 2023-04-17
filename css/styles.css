@@ -517,7 +517,7 @@ body {
   display: inline-flex;
   justify-content: center;
   align-items: center;
-  padding: 8px 24px 8px 24px;
+  padding: 8px 24px;
   font-weight: 500;
 }
 
